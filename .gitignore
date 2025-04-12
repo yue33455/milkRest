@@ -1,0 +1,3 @@
+menv
+*pyc
+milkRest/db.sqlite3
