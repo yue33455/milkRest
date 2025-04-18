@@ -56,9 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "https://laughing-space-rotary-phone-v6gp4g5476wp26qw-3000.app.github.dev",
-    "https://localhost:8000",
-    "http://localhost:8000",
-    "https://fantastic-robot-x59r6946q57qcpp7p-8000.app.github.dev"
+    "https://yue33455.github.io",
 ]
 
 ROOT_URLCONF = "milkRest.urls"
